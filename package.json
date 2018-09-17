@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "discord-rich-presence": "^0.0.7",
+    "discord-rpc": "discordjs/discord-rpc",
+    "discord-rpc-constructor": "^1.0.2"
+  }
+}
